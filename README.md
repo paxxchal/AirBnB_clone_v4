@@ -210,6 +210,11 @@ create: create [ARG] [PARAM 1] [PARAM 2] ...
 Uses [Travis-CI](https://travis-ci.org/) to run all tests on all commits to the
 github repo
 
+## New Contribution
+
+I'm working on enhancing the dynamic features of the AirBnB clone, implementing web interactions, and improving user experience.
+
+
 ## Authors :black_nib:
 
 * __MJ Johnson__ - <[@mj31508](https://github.com/mj31508)>
@@ -219,6 +224,7 @@ github repo
 * __Jared Heck__ - <[jarehec](https://github.com/jarehec)> | <[@jarehec](https://twitter.com/jarehec)>
 * __Brennan D Baraban__ - <[bdbaraban](https://github.com/bdbaraban)> | <[@bdov_](https://twitter.com/bdov_)>
 * __Derrick Gee__ - <[kai-dg](https://github.com/kai-dg)> | <[@the_haru_kai](https://twitter.com/the_haru_kai)>
+* __Derrick Gee__ - <[paxxchal](https://github.com/paxxchal)> | <[@thetechcaesar](https://twitter.com/thetechcaesar)>
 
 ## License
 
