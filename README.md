@@ -224,7 +224,7 @@ I'm working on enhancing the dynamic features of the AirBnB clone, implementing 
 * __Jared Heck__ - <[jarehec](https://github.com/jarehec)> | <[@jarehec](https://twitter.com/jarehec)>
 * __Brennan D Baraban__ - <[bdbaraban](https://github.com/bdbaraban)> | <[@bdov_](https://twitter.com/bdov_)>
 * __Derrick Gee__ - <[kai-dg](https://github.com/kai-dg)> | <[@the_haru_kai](https://twitter.com/the_haru_kai)>
-* __Derrick Gee__ - <[paxxchal](https://github.com/paxxchal)> | <[@thetechcaesar](https://twitter.com/thetechcaesar)>
+* __Paschal Nnamani__ - <[paxxchal](https://github.com/paxxchal)> | <[@thetechcaesar](https://twitter.com/thetechcaesar)>
 
 ## License
 
